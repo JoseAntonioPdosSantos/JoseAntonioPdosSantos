@@ -1,7 +1,6 @@
-### Hi there 👋 I'm José Antonio, Fullstack developer from Southrock Lab, Brazil,
+### Hi there 👋 I'm José Antonio, Fullstack developer,
 
-- 🔭 I’m currently working on Southrock Lab
-- 🌱 I’m currently learning Golang, Solidity and Managed Cloud Services for AWS
+- 🔭 I’m currently working with Golang, Java and Nodejs
 - 😄 Pronouns: He/Him
 
 <div align="center">
